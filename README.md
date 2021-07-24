@@ -1,0 +1,1 @@
+Pequeno relógio digital e analógico desenvolvido com css, html e javascript. Utilizando a função date() para retornar as horas e a fixZero() para padronizar como relógio digital, a mesma função date() com tratamento e o uso de rotate() para atualizar os ponteiros do relógio analógico.
